@@ -1,5 +1,5 @@
 {
-  "name": "langchain-typescript-starter",
+  "name": "whisper-ts-starter",
   "version": "1.0.0",
   "description": "",
   "main": "app.ts",
@@ -25,10 +25,9 @@
   "dependencies": {
     "@types/node": "^18.15.10",
     "dotenv": "^16.3.1",
-    "hnswlib-node": "^1.4.2",
+    "fs": "^0.0.1-security",
     "js-yaml": "^4.1.0",
-    "langchain": "^0.0.148",
-    "pdf-parse": "^1.1.1",
+    "openai": "^4.24.1",
     "typescript": "^5.0.2"
   },
   "devDependencies": {
